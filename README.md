@@ -1,6 +1,6 @@
 # CARDIA
 
-Application de Prédiction de Risque de Maladie Cardiaque
+Modèle de Prédiction de Risque de Maladie Cardiaque
 
 
 # Données disponibles
