@@ -22,7 +22,7 @@ Application de Prédiction de Risque de Maladie Cardiaque
 # Objectif
 
 - Prédire correctement si une personne est infectée en fonction des données cliniques disponibles
-- Métriques
-. score f1 > 80%
-. recall (vrai positif) > 80%
+- Métriques : 
+. score f1 > 80% 
+. recall (vrai positif) > 80% 
 . precision (vrai negatif) > 80%
