@@ -3,7 +3,6 @@
 Application de Prédiction de Risque de Maladie Cardiaque
 
 
-
 # Données disponibles
 
 - AGE
@@ -24,6 +23,6 @@ Application de Prédiction de Risque de Maladie Cardiaque
 
 - Prédire correctement si une personne est infectée en fonction des données cliniques disponibles
 - Métriques
-score f1 > 80%
-recall (vrai positif) > 80%
-precision (vrai negatif) > 80%
+. score f1 > 80%
+. recall (vrai positif) > 80%
+. precision (vrai negatif) > 80%
